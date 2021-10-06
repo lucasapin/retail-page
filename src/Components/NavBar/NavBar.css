@@ -1,0 +1,40 @@
+#logo {
+  padding: 20px;
+  font-size: 50px;
+}
+
+#page-name {
+  margin-left: -100px;
+  font-weight: bold;
+  font-size: 40px;
+  padding: 10px;
+  margin-top: 40px;
+  text-align: left;
+}
+
+#store-name {
+  padding: 5px;
+  margin-top: 50px;
+  text-align: center;
+}
+
+#admin-name {
+  padding: 5px;
+  margin-top: 50px;
+  text-align: center;
+}
+
+#date-dislayed {
+  padding: 5px;
+  margin-top: 50px;
+  text-align: center;
+}
+
+#weather-forecast {
+  margin-left: 880px;
+  font-weight: 600;
+}
+
+p {
+  font-weight: 500;
+}
